@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Verify access for all tabs","5","testAccess","Management report suite","Mon Mar 10 16:18:52 EET 2025","passed","Mon Mar 10 16:18:52 EET 2025","smoke_tests.AccessTests","Checking all tabs are present","smoke_tests.AccessTests","testAccess"
